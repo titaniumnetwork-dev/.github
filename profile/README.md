@@ -30,7 +30,7 @@ Lastly our Discord has well over 19k members and TN's services actively maintain
 - [Hypertabs](https://github.com/B3ATDROP3R/Hypertabs)
 
 
-#### Affilated
+#### Affiliated
 - [Tomp Web Proxies (tomphttp)](https://github.com/tomphttp)
 - [Rammerhead](https://github.com/binary-person/rammerhead)
 - [Womginx](https://github.com/binary-person/womginx)
