@@ -12,6 +12,8 @@
 <a href="https://reddit.com/r/TitaniumNetwork"><img height="30px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"><img></a>
 </p>
 
+**Documentation:** https://docs.titaniumnetwork.org
+
 ### About
 Titanium Network is an organization dedicated to providing services related to bypassing internet censorship. Our projects expect to provide users, and itself, with a less restrictive browsing experience. 
 
