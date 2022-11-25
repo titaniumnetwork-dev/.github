@@ -17,9 +17,9 @@
 ### About
 Titanium Network is an organization dedicated to providing services related to bypassing internet censorship. Our projects expect to provide users, and itself, with a less restrictive browsing experience. 
 
-For this TN prioritizes the production and improvement of web proxy technologies such as Ultraviolet, Corrosion, etc. and the affilation with various branched projects like Rammerhead, TOMP and formally Womginx from contributors. 
+For this Titanium Network prioritizes the production and improvement of web proxy technologies such as Ultraviolet, Corrosion, etc. and the affilation with various branched projects like Rammerhead, TOMP and formally Womginx from contributors. 
 
-Lastly our Discord has well over 19k members and TN's services actively maintain well over 5 million users per month.
+Our Discord has well over 20,000 members, and Titanium Network's services actively maintain well over 5 million users per month.
 
 ### Projects
 <details>
