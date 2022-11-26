@@ -65,3 +65,5 @@ Our Discord has well over 20,000 members, and Titanium Network's services active
 - [Terbium](https://terbium.ga)
 - [Illusive](https://illusive.app)
 - [Ludicrous](https://ludicrous.icu)
+- [Nebula](https://nebulaproxy.io)
+- [Radon Games](https://radon.games)
