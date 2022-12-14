@@ -30,6 +30,7 @@ Our Discord has well over 20,000 members, and Titanium Network's services active
 - [Holy Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
 - [Incognito](https://github.com/caracal-js/Incognito)
 - [Hypertabs](https://github.com/B3ATDROP3R/Hypertabs)
+- [Ludicrous](https://github.com/titaniumnetwork-dev/Ludicrous)
 
 
 #### Affiliated
