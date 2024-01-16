@@ -19,7 +19,7 @@ Titanium Network is an organization dedicated to providing services related to b
 
 For this Titanium Network prioritizes the production and improvement of web proxy technologies such as Ultraviolet, Corrosion, etc. and the affilation with various branched projects like Rammerhead, TOMP and formally Womginx from contributors. 
 
-Our Discord has well over 20,000 members, and Titanium Network's services actively maintain well over 5 million users per month.
+Our Discord has almost 30,000 members, and Titanium Network's services actively maintain well over 5 million users per month.
 
 ### Projects
 <details>
@@ -27,10 +27,6 @@ Our Discord has well over 20,000 members, and Titanium Network's services active
 
 #### Active
 - [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
-- [Holy Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
-- [Incognito](https://github.com/caracal-js/Incognito)
-- [Hypertabs](https://github.com/B3ATDROP3R/Hypertabs)
-- [Ludicrous](https://github.com/titaniumnetwork-dev/Ludicrous)
 
 
 #### Affiliated
@@ -40,6 +36,8 @@ Our Discord has well over 20,000 members, and Titanium Network's services active
 - [Holy Unblocker AIO](https://github.com/holy-unblocker/website-aio)
 
 #### Old
+- [Incognito](https://github.com/caracal-js/Incognito)
+- [Hypertabs](https://github.com/B3ATDROP3R/Hypertabs)
 - Corrosion
 - Vanadium
 - Reborn
@@ -61,10 +59,9 @@ Our Discord has well over 20,000 members, and Titanium Network's services active
 
 ### Services
 - [Holy Unblocker](https://holyubofficial.net)
-- [Incognito](https://incog.dev)
-- [Hypertabs](https://hypertabs.cc)
+- [Radon Games](https://radon.games/)
+- [FlowOS](https://flow-works.me/)
+- [Kazwire](https://kazwire.com/)
+- [Ludicrous](https://github.com/titaniumnetwork-dev/Ludicrous)
 - [Terbium](https://terbium.ga)
-- [Illusive](https://illusive.app)
-- [Ludicrous](https://ludicrous.icu)
 - [Nebula](https://nebulaproxy.io)
-- [Radon Games](https://radon.games)
