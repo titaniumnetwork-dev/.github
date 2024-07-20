@@ -65,3 +65,4 @@ Our Discord has almost 30,000 members, and Titanium Network's services actively 
 - [Ludicrous](https://github.com/titaniumnetwork-dev/Ludicrous)
 - [Terbium](https://terbium.ga)
 - [Nebula](https://nebulaproxy.io)
+- [Definitely Science](https://definitelyscience.com/)
