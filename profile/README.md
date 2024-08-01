@@ -17,9 +17,13 @@
 ### About
 Titanium Network is an organization dedicated to providing services related to bypassing internet censorship. Our projects expect to provide users, and itself, with a less restrictive browsing experience. 
 
-For this Titanium Network prioritizes the production and improvement of web proxy technologies such as Ultraviolet, Corrosion, etc. and the affilation with various branched projects like Rammerhead, TOMP and formally Womginx from contributors. 
+For this Titanium Network prioritizes the production and improvement of web proxy technologies such as Ultraviolet, Corrosion, etc. and the affilation with various branched projects like Rammerhead, wisp, epoxy, bare-mux, wisp-mux, libcurl.js, scramjet and formally Womginx from contributors. 
 
-Our Discord has almost 30,000 members, and Titanium Network's services actively maintain well over 5 million users per month.
+Our Discord has 30,000 members, and Titanium Network's services actively maintain well over 5 million users per month.
+
+### Partners
+
+Titanium Network is partnered and developed primarily by [Mercury Workshop](https://github.com/MercuryWorkshop/) && the Titanium Network proxy community.
 
 ### Projects
 <details>
@@ -27,13 +31,27 @@ Our Discord has almost 30,000 members, and Titanium Network's services actively 
 
 #### Active
 - [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
+- [Holy Unblocker LTS](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
+- [Alu](https://github.com/titaniumnetwork-dev/Alu)
+- [Definitely Science](https://github.com/lich2king/Definitely-Science)
+- [epoxy-tls](https://github.com/MercuryWorkshop/epoxy-tls)
+- [bare-mux](https://github.com/MercuryWorkshop/bare-mux)
+- [libcurl.js](https://github.com/ading2210/libcurl.js)
+- [wisp](https://github.com/MercuryWorkshop/wisp-protocol)
+- [anuraOS](https://github.com/MercuryWorkshop/anuraOS)
+- [scramjet](https://github.com/MercuryWorkshop/scramjet)
 
 
 #### Affiliated
-- [Tomp Web Proxies (tomphttp)](https://github.com/tomphttp)
 - [Rammerhead](https://github.com/binary-person/rammerhead)
 - [Womginx](https://github.com/binary-person/womginx)
-- [Holy Unblocker AIO](https://github.com/holy-unblocker/website-aio)
+- [Holy Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
+- [Alu](https://github.com/titaniumnetwork-dev/Alu)
+- [epoxy-tls](https://github.com/MercuryWorkshop/epoxy-tls)
+- [bare-mux](https://github.com/MercuryWorkshop/bare-mux)
+- [libcurl.js](https://github.com/ading2210/libcurl.js)
+- [wisp](https://github.com/MercuryWorkshop/wisp-protocol)
+- [anuraOS](https://github.com/MercuryWorkshop/anuraOS)
 
 #### Old
 - [Incognito](https://github.com/caracal-js/Incognito)
@@ -58,11 +76,12 @@ Our Discord has almost 30,000 members, and Titanium Network's services actively 
 </details>
 
 ### Services
-- [Holy Unblocker](https://holyubofficial.net)
+- [Holy Unblocker LTS](https://holyunblocker.org)
+- [Alu](https://aluu.xyz)
 - [Radon Games](https://radon.games/)
-- [FlowOS](https://flow-works.me/)
+- [AnuraOS](https://anura.pro/)
+- [Incognito](https://incog.works/)
 - [Kazwire](https://kazwire.com/)
 - [Ludicrous](https://github.com/titaniumnetwork-dev/Ludicrous)
-- [Terbium](https://terbium.ga)
 - [Nebula](https://nebulaproxy.io)
 - [Definitely Science](https://definitelyscience.com/)
