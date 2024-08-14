@@ -40,6 +40,7 @@ Titanium Network is partnered and developed primarily by [Mercury Workshop](http
 - [wisp](https://github.com/MercuryWorkshop/wisp-protocol)
 - [anuraOS](https://github.com/MercuryWorkshop/anuraOS)
 - [scramjet](https://github.com/MercuryWorkshop/scramjet)
+- [nano.](https://github.com/titaniumnetwork-dev/nano)
 
 
 #### Affiliated
@@ -85,3 +86,4 @@ Titanium Network is partnered and developed primarily by [Mercury Workshop](http
 - [Ludicrous](https://github.com/titaniumnetwork-dev/Ludicrous)
 - [Nebula](https://nebulaproxy.io)
 - [Definitely Science](https://definitelyscience.com/)
+- [nano.](https://github.com/titaniumnetwork-dev/nano)
