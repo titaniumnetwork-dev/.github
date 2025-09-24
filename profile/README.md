@@ -8,7 +8,10 @@
 
 <p align="center">
 <a href="https://discord.gg/unblock"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
-<a href="https://twitter.com/TitaniumNetDev"><img height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"><img></a>
+<a href="https://www.youtube.com/channel/UC6LaREFvs9L72SK1s2PcxNg"><img height="30px" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"><img></a>
+<a href="https://x.com/TitaniumNetDev"><img height="30px" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"><img></a>
+<a href="https://bsky.app/profile/titaniumnetwork.org"><img height="30px" src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white"><img></a>
+<a href="https://www.instagram.com/titaniumnetworkofficial_"><img height="30px" src="https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white"><img></a>
 <a href="https://reddit.com/r/TitaniumNetwork"><img height="30px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"><img></a>
 </p>
 
@@ -17,13 +20,13 @@
 ### About
 Titanium Network is an organization dedicated to providing services related to bypassing internet censorship. Our projects expect to provide users, and itself, with a less restrictive browsing experience. 
 
-For this Titanium Network prioritizes the production and improvement of web proxy technologies such as Ultraviolet, Corrosion, etc. and the affilation with various branched projects like Rammerhead, wisp, epoxy, bare-mux, wisp-mux, libcurl.js, scramjet and formally Womginx from contributors. 
+For this Titanium Network prioritizes the production and improvement of web proxy technologies such as Ultraviolet, Corrosion, etc. and the affilation with various branched projects like Rammerhead, Wisp, Epoxy, bare-mux, libcurl.js, Scramjet and formally Womginx from contributors. 
 
-Our Discord has 30,000 members, and Titanium Network's services actively maintain well over 5 million users per month.
+Our Discord has 31,000 members, and Titanium Network's services actively maintain well over 5 million users per month.
 
 ### Partners
 
-Titanium Network is partnered and developed primarily by [Mercury Workshop](https://github.com/MercuryWorkshop/) && the Titanium Network proxy community.
+Titanium Network is partnered and developed primarily by [Mercury Workshop](https://github.com/MercuryWorkshop/) and the Titanium Network proxy community.
 
 ### Projects
 <details>
@@ -84,4 +87,3 @@ Titanium Network is partnered and developed primarily by [Mercury Workshop](http
 - [Radon Games](https://radon.games/)
 - [Kazwire](https://kazwire.com/)
 - [Nebula](https://nebulaservices.org/)
-- [Radius](https://radiusproxy.app/)
