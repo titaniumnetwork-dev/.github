@@ -12,6 +12,7 @@
 <a href="https://x.com/TitaniumNetDev"><img height="30px" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"><img></a>
 <a href="https://bsky.app/profile/titaniumnetwork.org"><img height="30px" src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white"><img></a>
 <a href="https://www.instagram.com/titaniumnetworkofficial_"><img height="30px" src="https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white"><img></a>
+<a href="https://www.tiktok.com/@titaniumnetwork.org"><img height="30px" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white"><img></a>
 <a href="https://reddit.com/r/TitaniumNetwork"><img height="30px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"><img></a>
 </p>
 
