@@ -43,14 +43,11 @@ Titanium Network is partnered and developed primarily by [Mercury Workshop](http
 - [Holy Unblocker LTS](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
 - [anuraOS](https://github.com/MercuryWorkshop/anuraOS)
 - [Terbium](https://github.com/TerbiumOS/web-v2)
-- [Alu](https://github.com/titaniumnetwork-dev/Alu)
-- [Definitely Science](https://github.com/lich2king/Definitely-Science)
 - [Incognito](https://github.com/MotorTruck1221/Incognito)
 - [Radon Games](https://github.com/Radon-Games/Radon-Games)
-- [Kazwire](https://github.com/whos-evan/kazwire)
 - [Nebula](https://github.com/NebulaServices/Nebula)
-- [Radius](https://github.com/unretain/Radius2)
-
+- [Definitely Science](https://github.com/lich2king/Definitely-Science)
+- [Kazwire](https://github.com/whos-evan/kazwire)
 
 #### Affiliated
 - [Rammerhead](https://github.com/binary-person/rammerhead)
@@ -82,9 +79,8 @@ Titanium Network is partnered and developed primarily by [Mercury Workshop](http
 - [Holy Unblocker LTS](https://holyunblocker.org)
 - [AnuraOS](https://anura.pro/)
 - [Terbium](https://terbiumon.top/)
-- [Alu](https://aluu.xyz)
-- [Definitely Science](https://definitelyscience.com/)
 - [Incognito](https://incog.works/)
 - [Radon Games](https://radon.games/)
-- [Kazwire](https://kazwire.com/)
 - [Nebula](https://nebulaservices.org/)
+- [Definitely Science](https://definitelyscience.com/)
+- [Kazwire](https://kazwire.com/)
