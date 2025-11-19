@@ -48,6 +48,7 @@ Titanium Network is partnered and developed primarily by [Mercury Workshop](http
 - [Nebula](https://github.com/NebulaServices/Nebula)
 - [Definitely Science](https://github.com/lich2king/Definitely-Science)
 - [Kazwire](https://github.com/whos-evan/kazwire)
+- [Fern](https://github.com/genericness/fern-foss)
 
 #### Affiliated
 - [Rammerhead](https://github.com/binary-person/rammerhead)
@@ -84,3 +85,4 @@ Titanium Network is partnered and developed primarily by [Mercury Workshop](http
 - [Nebula](https://nebulaservices.org/)
 - [Definitely Science](https://definitelyscience.com/)
 - [Kazwire](https://kazwire.com/)
+- [Fern](https://fern.best/)
