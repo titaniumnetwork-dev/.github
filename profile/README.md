@@ -85,4 +85,3 @@ Titanium Network is partnered and developed primarily by [Mercury Workshop](http
 - [Nebula](https://nebulaservices.org/)
 - [Definitely Science](https://definitelyscience.com/)
 - [Kazwire](https://kazwire.com/)
-- [Fern](https://fern.best/)
