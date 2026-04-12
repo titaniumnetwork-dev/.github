@@ -77,7 +77,7 @@ Titanium Network is partnered and developed primarily by [Mercury Workshop](http
 </details>
 
 ### Services
-- [Holy Unblocker LTS](https://holyunblocker.org)
+- [InvisiProxy](https://invisiproxy.com)
 - [AnuraOS](https://anura.pro/)
 - [Terbium](https://terbiumon.top/)
 - [Incognito](https://incog.works/)
