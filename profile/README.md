@@ -23,7 +23,7 @@ Titanium Network is an organization dedicated to providing services related to b
 
 For this Titanium Network prioritizes the production and improvement of web proxy technologies such as Ultraviolet, Corrosion, etc. and the affilation with various branched projects like Rammerhead, Wisp, Epoxy, bare-mux, libcurl.js, Scramjet and formally Womginx from contributors. 
 
-Our Discord has 31,000 members, and Titanium Network's services actively maintain well over 5 million users per month.
+Our Discord has 33,000 members, and Titanium Network's services actively maintain well over 5 million users per month.
 
 ### Partners
 
@@ -34,21 +34,26 @@ Titanium Network is partnered and developed primarily by [Mercury Workshop](http
 <summary>Overview</summary>
 
 #### Active
+##### Backend Proxies
 - [Scramjet](https://github.com/MercuryWorkshop/scramjet)
 - [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
-- [bare-mux](https://github.com/MercuryWorkshop/bare-mux)
+##### Network Stack
 - [wisp](https://github.com/MercuryWorkshop/wisp-protocol)
+- [proxy-transports](https://github.com/MercuryWorkshop/proxy-transports)
 - [epoxy-tls](https://github.com/MercuryWorkshop/epoxy-tls)
 - [libcurl.js](https://github.com/ading2210/libcurl.js)
-- [Holy Unblocker LTS](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
+##### Services (Flagship)
+- [InvisiProxy LTS](https://github.com/QuiteAFancyEmerald/InvisiProxy)
 - [anuraOS](https://github.com/MercuryWorkshop/anuraOS)
-- [Terbium](https://github.com/TerbiumOS/web-v2)
-- [Incognito](https://github.com/MotorTruck1221/Incognito)
-- [Radon Games](https://github.com/Radon-Games/Radon-Games)
+- [Truffled](https://github.com/aukak/truffled)
+##### Services (Partnered)
 - [Nebula](https://github.com/NebulaServices/Nebula)
-- [Definitely Science](https://github.com/lich2king/Definitely-Science)
+- [Incognito](https://github.com/MotorTruck1221/Incognito)
+- [DayDream X](https://gitlab.com/nightnetwork/daydreamx)
+- [Terbium](https://github.com/TerbiumOS/web-v2)
+- [Space](https://gitlab.com/nightnetwork/Space)
 - [Kazwire](https://github.com/whos-evan/kazwire)
-- [Fern](https://github.com/genericness/fern-foss)
+- [Definitely Science](https://github.com/lich2king/Definitely-Science)
 
 #### Affiliated
 - [Rammerhead](https://github.com/binary-person/rammerhead)
@@ -77,11 +82,15 @@ Titanium Network is partnered and developed primarily by [Mercury Workshop](http
 </details>
 
 ### Services
-- [InvisiProxy](https://invisiproxy.com)
+#### Flagships
+- [InvisiProxy LTS](https://invisiproxy.com)
 - [AnuraOS](https://anura.pro/)
-- [Terbium](https://terbiumon.top/)
+- [Truffled](https://truffled.lol)
+#### Partnered
+- [Nebula](https://nebulaproxy.io/)
 - [Incognito](https://incog.works/)
-- [Radon Games](https://radon.games/)
-- [Nebula](https://nebulaservices.org/)
-- [Definitely Science](https://definitelyscience.com/)
+- [DayDream X](https://daydreamx.pro/)
+- [Terbium](https://terbiumon.top/)
+- [Space](https://gointospace.app/)
 - [Kazwire](https://kazwire.com/)
+- [Definitely Science](https://definitelyscience.com/)
