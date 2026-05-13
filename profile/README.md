@@ -4,7 +4,7 @@
 </kbd>
 </p>
 
-<h1 align="center">Titanium Network</h1>
+<h1 align="center">TitaniumNetwork</h1>
 
 <p align="center">
 <a href="https://discord.gg/unblock"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
@@ -19,15 +19,15 @@
 **Documentation:** https://docs.titaniumnetwork.org
 
 ### About
-Titanium Network is an organization dedicated to providing services related to bypassing internet censorship. Our projects expect to provide users, and itself, with a less restrictive browsing experience. 
+TitaniumNetwork is an organization dedicated to providing services related to bypassing internet censorship. Our projects provide users with a less restrictive browsing experience. 
 
-For this Titanium Network prioritizes the production and improvement of web proxy technologies such as Ultraviolet, Corrosion, etc. and the affilation with various branched projects like Rammerhead, Wisp, Epoxy, bare-mux, libcurl.js, Scramjet and formally Womginx from contributors. 
+For this TitaniumNetwork prioritizes the production and improvement of web proxy technologies such as Ultraviolet, Corrosion, etc. and the affilation with various branched projects like Rammerhead, Wisp, Epoxy, bare-mux, libcurl.js, Scramjet, and formerly Womginx, from contributors. 
 
-Our Discord has 33,000 members, and Titanium Network's services actively maintain well over 5 million users per month.
+Our Discord has 33,000 members, and TitaniumNetwork's services actively maintain well over 5 million users per month.
 
 ### Partners
 
-Titanium Network is partnered and developed primarily by [Mercury Workshop](https://github.com/MercuryWorkshop/) and the Titanium Network proxy community.
+TitaniumNetwork is partnered and developed primarily by [Mercury Workshop](https://github.com/MercuryWorkshop/) and the TitaniumNetwork proxy community.
 
 ### Projects
 <details>
@@ -68,16 +68,17 @@ Titanium Network is partnered and developed primarily by [Mercury Workshop](http
 - [Vanadium](https://github.com/titaniumnetwork-dev/Vanadium)
 - [Reborn](https://github.com/titaniumnetwork-dev/Reborn)
 - Resilience
-- Via Unblocker (PyDodge)
-- PyDodge B
+- Via Unblocker / PyDodge
 - P2
 - Pheonix Reborn
 - Boardwalk
 - TitaniumLite
 - Powermouse
-- Material Unblocker
+- Node Unblocker
 - Chat-Utils (cursed)
 - Muun
+- NodeCookie
+- CensorDodge
 
 </details>
 
