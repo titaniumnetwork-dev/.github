@@ -47,9 +47,9 @@ TitaniumNetwork is partnered and developed primarily by [Mercury Workshop](https
 - [anuraOS](https://github.com/MercuryWorkshop/anuraOS)
 - [Truffled](https://github.com/aukak/truffled)
 ##### Services (Partnered)
-- [Nebula](https://github.com/NebulaServices/Nebula)
-- [Incognito](https://github.com/MotorTruck1221/Incognito)
 - [DayDream X](https://gitlab.com/nightnetwork/daydreamx)
+- [Lunar](https://github.com/Lunar-Proxy/lunar-v2)
+- [Nebula](https://github.com/NebulaServices/Nebula)
 - [Terbium](https://github.com/TerbiumOS/web-v2)
 - [Space](https://gitlab.com/nightnetwork/Space)
 - [Kazwire](https://github.com/whos-evan/kazwire)
@@ -85,12 +85,12 @@ TitaniumNetwork is partnered and developed primarily by [Mercury Workshop](https
 ### Services
 #### Flagships
 - [InvisiProxy LTS](https://invisiproxy.com)
-- [AnuraOS](https://anura.pro/)
+- [anuraOS](https://anura.pro/)
 - [Truffled](https://truffled.lol)
 #### Partnered
-- [Nebula](https://nebulaproxy.io/)
-- [Incognito](https://incog.works/)
 - [DayDream X](https://daydreamx.pro/)
+- [Lunar](https://lunaron.top)
+- [Nebula](https://nebulaproxy.io/)
 - [Terbium](https://terbiumon.top/)
 - [Space](https://gointospace.app/)
 - [Kazwire](https://kazwire.com/)
