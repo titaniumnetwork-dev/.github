@@ -53,7 +53,6 @@ TitaniumNetwork is partnered and developed primarily by [Mercury Workshop](https
 - [Terbium](https://github.com/TerbiumOS/web-v2)
 - [Space](https://gitlab.com/nightnetwork/Space)
 - [Kazwire](https://github.com/whos-evan/kazwire)
-- [Definitely Science](https://github.com/lich2king/Definitely-Science)
 
 #### Affiliated
 - [Rammerhead](https://github.com/binary-person/rammerhead)
@@ -94,4 +93,3 @@ TitaniumNetwork is partnered and developed primarily by [Mercury Workshop](https
 - [Terbium](https://terbiumon.top/)
 - [Space](https://gointospace.app/)
 - [Kazwire](https://kazwire.com/)
-- [Definitely Science](https://definitelyscience.com/)
