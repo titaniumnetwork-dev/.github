@@ -86,8 +86,8 @@ TitaniumNetwork is partnered and developed primarily by [Mercury Workshop](https
 #### Flagships
 - [InvisiProxy LTS](https://invisiproxy.com)
 - [anuraOS](https://anura.pro/)
-- [Obsidian](https://playobsidian.com/)
 - [Truffled](https://truffled.lol)
+- [Obsidian](https://playobsidian.com/)
 
 #### Partnered
 - [DayDream X](https://daydreamx.pro/)
