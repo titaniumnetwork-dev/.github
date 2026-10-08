@@ -49,7 +49,6 @@ TitaniumNetwork is partnered and developed primarily by [Mercury Workshop](https
 - [Obsidian](https://github.com/titaniumnetwork-dev/Obsidian)
 ##### Services (Partnered)
 - [DayDream X](https://gitlab.com/nightnetwork/daydreamx)
-- [Lunar](https://github.com/Lunar-Proxy/lunar-v2)
 - [Nebula](https://github.com/NebulaServices/Nebula)
 - [Terbium](https://github.com/TerbiumOS/web-v2)
 - [Space](https://gitlab.com/nightnetwork/Space)
