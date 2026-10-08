@@ -90,7 +90,6 @@ TitaniumNetwork is partnered and developed primarily by [Mercury Workshop](https
 
 #### Partnered
 - [DayDream X](https://daydreamx.pro/)
-- [Lunar](https://lunaron.top)
 - [Nebula](https://nebulaproxy.io/)
 - [Terbium](https://terbiumon.top/)
 - [Space](https://gointospace.app/)
