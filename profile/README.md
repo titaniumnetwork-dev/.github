@@ -21,7 +21,7 @@
 ### About
 TitaniumNetwork is an organization dedicated to providing services related to bypassing internet censorship. Our projects provide users with a less restrictive browsing experience. 
 
-For this TitaniumNetwork prioritizes the production and improvement of web proxy technologies such as Ultraviolet, Corrosion, etc. and the affilation with various branched projects like Rammerhead, Wisp, Epoxy, bare-mux, libcurl.js, Scramjet, and formerly Womginx, from contributors. 
+For this TitaniumNetwork prioritizes the production and improvement of web proxy services and technologies such as Hypertabs, Obsidian etc. and the affilation with various branched projects like Scramjet, Rammerhead, Wisp, proxy-transports, epoxy-client, and libcurl.js from contributors. 
 
 Our Discord has 33,000 members, and TitaniumNetwork's services actively maintain well over 5 million users per month.
 
@@ -40,7 +40,7 @@ TitaniumNetwork is partnered and developed primarily by [Mercury Workshop](https
 ##### Network Stack
 - [wisp](https://github.com/MercuryWorkshop/wisp-protocol)
 - [proxy-transports](https://github.com/MercuryWorkshop/proxy-transports)
-- [epoxy-tls](https://github.com/MercuryWorkshop/epoxy-tls)
+- [epoxy-client](https://github.com/MercuryWorkshop/epoxy-tls/tree/multiplexed/client)
 - [libcurl.js](https://github.com/ading2210/libcurl.js)
 ##### Services (Flagship)
 - [InvisiProxy LTS](https://github.com/QuiteAFancyEmerald/InvisiProxy)
