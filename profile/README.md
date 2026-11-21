@@ -36,7 +36,6 @@ TitaniumNetwork is partnered and developed primarily by [Mercury Workshop](https
 #### Active
 ##### Backend Proxies
 - [Scramjet](https://github.com/MercuryWorkshop/scramjet)
-- [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
 ##### Network Stack
 - [wisp](https://github.com/MercuryWorkshop/wisp-protocol)
 - [proxy-transports](https://github.com/MercuryWorkshop/proxy-transports)
@@ -49,6 +48,7 @@ TitaniumNetwork is partnered and developed primarily by [Mercury Workshop](https
 - [Obsidian](https://github.com/titaniumnetwork-dev/Obsidian)
 ##### Services (Partnered)
 - [DayDream X](https://gitlab.com/nightnetwork/daydreamx)
+- [Fracital](https://github.com/Fracital/Fracital)
 - [Nebula](https://github.com/NebulaServices/Nebula)
 - [Terbium](https://github.com/TerbiumOS/web-v2)
 - [Space](https://gitlab.com/nightnetwork/Space)
@@ -59,6 +59,7 @@ TitaniumNetwork is partnered and developed primarily by [Mercury Workshop](https
 - [Womginx](https://github.com/binary-person/womginx)
 
 #### Old
+- [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
 - [Corrosion](https://github.com/titaniumnetwork-dev/Corrosion)
 - [Alloy](https://github.com/titaniumnetwork-dev/Alloy)
 - [Athlon1600/php-proxy](https://github.com/Athlon1600/php-proxy)
@@ -90,6 +91,7 @@ TitaniumNetwork is partnered and developed primarily by [Mercury Workshop](https
 
 #### Partnered
 - [DayDream X](https://daydreamx.pro/)
+- [Fracital](https://fracit.al)
 - [Nebula](https://nebulaproxy.io/)
 - [Terbium](https://terbiumon.top/)
 - [Space](https://gointospace.app/)
