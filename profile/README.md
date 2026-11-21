@@ -36,6 +36,7 @@ TitaniumNetwork is partnered and developed primarily by [Mercury Workshop](https
 #### Active
 ##### Backend Proxies
 - [Scramjet](https://github.com/MercuryWorkshop/scramjet)
+- [Rammerhead](https://github.com/binary-person/rammerhead) (Affiliated)
 ##### Network Stack
 - [wisp](https://github.com/MercuryWorkshop/wisp-protocol)
 - [proxy-transports](https://github.com/MercuryWorkshop/proxy-transports)
@@ -54,12 +55,9 @@ TitaniumNetwork is partnered and developed primarily by [Mercury Workshop](https
 - [Space](https://gitlab.com/nightnetwork/Space)
 - [Kazwire](https://github.com/whos-evan/kazwire)
 
-#### Affiliated
-- [Rammerhead](https://github.com/binary-person/rammerhead)
-- [Womginx](https://github.com/binary-person/womginx)
-
 #### Old
 - [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
+- [Womginx](https://github.com/binary-person/womginx)
 - [Corrosion](https://github.com/titaniumnetwork-dev/Corrosion)
 - [Alloy](https://github.com/titaniumnetwork-dev/Alloy)
 - [Athlon1600/php-proxy](https://github.com/Athlon1600/php-proxy)
